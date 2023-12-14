@@ -1,2 +1,2 @@
-# JavaKata
-All my relevant kata java exercices, see the different branches for content.
+Figure out the loop length while starting on a dangle. (not yet in the loop).
+Nice algorithm trick, makes it very simple
